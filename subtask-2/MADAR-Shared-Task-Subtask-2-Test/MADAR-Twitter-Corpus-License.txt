@@ -1,0 +1,19 @@
+//////////////////////////////////////////////////////////////////////
+// License for MADAR Twitter Dataset
+//////////////////////////////////////////////////////////////////////
+
+Copyright 2019 Carnegie Mellon University and New York University Abu
+Dhabi.  All Rights Reserved.
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-
+NoDerivatives 4.0 International License.
+(https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+If you use this resource, cite:
+
+Bouamor, Houda, Sabit Hassan, Nizar Habash and Kemal Oflazer.
+The MADAR Shared Task on Arabic Fine-Grained Dialect Identification.
+In Proceedings of the Workshop for Arabic Natural Language Processing.
+Florence, Italy, 2019.
+
+//////////////////////////////////////////////////////////////////////
